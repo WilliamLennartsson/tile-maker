@@ -1,0 +1,11 @@
+
+Flip function done
+Scale tile
+Borders
+Control panel
+Export
+
+ -- Generate tile base
+Settings for random gen
+Controls
+Color schemes
